@@ -1,4 +1,13 @@
-# KI in a Box Deutsch
+Ziel:
+1. Umstellung auf Deutsch
+2. Nutzung in "Home Assistant"
+3. hinzufügen schnell wechselbarer Prompts
+
+Abgeschlossene Änderungen:
+seit 19.02.2024: keine
+
+
+# KI in a Box 
 
 AI in a Box from [Useful Sensors](https://usefulsensors.com/) showcases
 speech-based AI applications.  All models are on-device and run locally with
