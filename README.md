@@ -1,4 +1,4 @@
-# AI in a Box.
+# KI in a Box Deutsch
 
 AI in a Box from [Useful Sensors](https://usefulsensors.com/) showcases
 speech-based AI applications.  All models are on-device and run locally with
