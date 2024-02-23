@@ -5,7 +5,8 @@
 
 Abgeschlossene Änderungen:
 seit 19.02.2024: keine
-ANleitung zur übernasme Deutscher Einstellungen:
+
+# Anleitung zur übername Deutscher Einstellungen:
 1. Datei ansehen und umbenennen mit:
  ```console
 nano llm_speaker.py
