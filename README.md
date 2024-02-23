@@ -6,6 +6,21 @@ Ziel:
 Abgeschlossene Änderungen:
 seit 19.02.2024: keine
 
+1. Datei ansehen und umbenennen mit:
+ ```console
+nano llm_speaker.py
+ ```
+2. Datei löschen mit:
+   ```console
+ rm llm_speaker.py
+    ```
+
+Download der Dateien direkt in den Ordner:
+ ``` console
+wget --secure-protocol=TLSv1 https://github.com/Watchkido/ai_in_a_box/blob/main/llm_speaker.py
+ ```
+
+
 
 # KI in a Box 
 
