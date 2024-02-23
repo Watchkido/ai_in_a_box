@@ -1,21 +1,20 @@
-Ziel:
+# Ziel:
 1. Umstellung auf Deutsch
 2. Nutzung in "Home Assistant"
 3. hinzufügen schnell wechselbarer Prompts
 
 Abgeschlossene Änderungen:
 seit 19.02.2024: keine
-
+ANleitung zur übernasme Deutscher Einstellungen:
 1. Datei ansehen und umbenennen mit:
  ```console
 nano llm_speaker.py
  ```
 2. Datei löschen mit:
-   ```console
+```console
  rm llm_speaker.py
-    ```
-
-Download der Dateien direkt in den Ordner:
+```
+3. Download der Dateien direkt in den Ordner:
  ``` console
 wget --secure-protocol=TLSv1 https://github.com/Watchkido/ai_in_a_box/blob/main/llm_speaker.py
  ```
