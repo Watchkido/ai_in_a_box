@@ -19,7 +19,10 @@ nano llm_speaker.py
  ``` console
 wget --secure-protocol=TLSv1 https://github.com/Watchkido/ai_in_a_box/blob/main/llm_speaker.py
  ```
-
+Download der Deutschen Stimme ( sie benötigen auch die Datei: de_DE-thorsten-low.onnx.json)
+````
+wget --secure-protocol=TLSv1 https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/de/de_DE/thorsten/low/de_DE-thorsten-low.onnx?download=true
+```
 
 
 # KI in a Box 
